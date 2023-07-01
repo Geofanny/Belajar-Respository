@@ -1,6 +1,5 @@
 COBA BARU
 hfhfh
-Apa Ya
 Bahasa Pemograman
 * HTML
 * CSS
