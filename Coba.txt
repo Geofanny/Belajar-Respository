@@ -4,6 +4,10 @@ Bahasa Pemograman
 * HTML
 * CSS
 * JAVASCRIPT
-HOBI
-* Sepeda
+Buah Kesukaan
+* Apel
+* Anggur
+* Jeruk
+Hobi
+* Sepedah
 * Renang
