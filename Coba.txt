@@ -1,6 +1,9 @@
 COBA BARU
 hfhfh
-Apa Ya
+Bahasa Pemograman
+* HTML
+* CSS
+* JAVASCRIPT
 Buah Kesukaan
 * Apel
 * Anggur
